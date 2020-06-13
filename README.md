@@ -1,2 +1,2 @@
-# HelloWorld---RainMeter-Skin
+# HelloWorld-RainMeter-Skin
 My first "Hello, World!" skin for Rainmeter.
