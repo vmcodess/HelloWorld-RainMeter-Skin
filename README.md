@@ -3,6 +3,9 @@
 # HelloWorld-RainMeter-Skin
 ![License](https://raw.githubusercontent.com/vmatveev95/HelloWorld-RainMeter-Skin/master/LICENSE)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 My first simple "Hello, World!" skin for Rainmeter.
 
 
