@@ -5,4 +5,6 @@
 
 My first simple "Hello, World!" skin for Rainmeter.
 
+#Minimum Requirements
 
+1. Rainmeter v
